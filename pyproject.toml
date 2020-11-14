@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cipher_wy2365"
+version = "0.1.0"
+description = "A python package that encrypts and decrypts text using the Caesar cipher"
+authors = ["Weiran Yu <weiranyu@hotmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
