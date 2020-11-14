@@ -24,7 +24,7 @@ $ pip install -i https://test.pypi.org/simple/ cipher_wy2365
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://cipher_wy2365.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://cipher-yu-weiran.readthedocs.io/en/latest/
 
 ## Contributors
 
